@@ -3,7 +3,7 @@ module.exports = {
   ExpressServer: true, 
   DefaultPrefix: process.env.Prefix || "-", 
   Port: 3000, 
-  SupportServer: "https://discord.gg/sbySMS7m3v", 
+  SupportServer: "https://discord.gg/czCVNdfWzK", 
   Token: process.env.Token || "", 
   ClientID: process.env.Discord_ClientID || "", 
   ClientSecret: process.env.Discord_ClientSecret || "", 
