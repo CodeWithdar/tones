@@ -1,7 +1,7 @@
 module.exports = {
   Admins: ["Undefeated †ᴱᴳ#5700", ""], 
   ExpressServer: true, 
-  DefaultPrefix: process.env.Prefix || "-", 
+  DefaultPrefix: process.env.Prefix || ">", 
   Port: 3000, 
   SupportServer: "https://discord.gg/czCVNdfWzK", 
   Token: process.env.Token || "", 
